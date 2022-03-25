@@ -22,6 +22,10 @@
 
 ### :woman_technologist: About Me :
 
+I'm Manuela Flores, currently, I’m an Android Developer 💚 and an enthusiastic self-taught from Lima-Perú. I learned about programming in 2017, in a community for women called Laboratoria 💛, there I got my starting point in technology.
+
+I love coffee, is perfect drinking a cup while reading something ☕️☕️. Outside of programming, I enjoy walking while listening to music or just go jogging.
+
 
 
 
