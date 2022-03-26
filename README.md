@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/manuela-flores-vilchez/">
@@ -18,15 +18,17 @@
   
 </div>
 
----
-
 ### :woman_technologist: About Me :
 
 I'm Manuela Flores, currently, I’m an Android Developer 💚 and an enthusiastic self-taught from Lima-Perú. I learned about programming in 2017, in a community for women called Laboratoria 💛, there I got my starting point in technology.
 
 I love coffee, is perfect drinking a cup while reading something ☕️☕️. Outside of programming, I enjoy walking while listening to music or just go jogging.
 
+---
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFlores&layout=compact&theme=vision-friendly-dark)](https://github.com/ManuelaFlores/github-readme-stats)
 
 
 <!--
